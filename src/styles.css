@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Dancing+Script&display=swap');
+@import '~font-awesome/css/font-awesome.css';
+
+body{
+    background-image: url('assets/image/Bckground.png');
+    
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
